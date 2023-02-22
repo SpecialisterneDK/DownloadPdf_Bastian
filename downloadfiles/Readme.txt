@@ -1,4 +1,4 @@
-This program is made with a person who knows a bit about programmming and know how to navigate visual studio code and install extension
+This program is made with a person who knows a bit about programmming and know how to intall and navigate visual studio code, install extension and install python, python is need before extension in visual studio code will work
 
 Make sure python is installed on your pc
 Get python extension in visual studio code
